@@ -1,4 +1,4 @@
-baseURL = "https://nogieman.github.io/nogiemanio/"
+baseURL = "http://localhost:1313/"
 languageCode = 'en-us'
 title = 'Lalith Chandra'
 theme = 'hugo-noir'
@@ -151,6 +151,6 @@ description = "As a volunteer at Bunts Sangha Nashik, I tutored students, prepar
     name = "Contact Me"
     pageRef = "/contact"
     weight = 5
-# [caches]
-#   [caches.images]
-#     dir = ':cacheDir/images'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
