@@ -9,37 +9,37 @@
     <atom:link href="https://nogieman.github.io/nogiemanio/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À Propos de Moi</title>
-      <link>https://nogieman.github.io/nogiemanio/fr/about/</link>
+      <link>https://nogieman.github.io/nogiemanio/fr/about.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/fr/about/</guid>
+      <guid>https://nogieman.github.io/nogiemanio/fr/about.html</guid>
       <description>Je travaille avec des modèles ML, des données et l&amp;rsquo;IA depuis 7 ans et j&amp;rsquo;ai cette envie de repousser les limites et de faire bouger les choses. J&amp;rsquo;adore l&amp;rsquo;excitation de résoudre un problème difficile, que ce soit en codant quelque chose de nouveau ou en découvrant jusqu&amp;rsquo;où je peux pousser une idée folle. Construire des choses intelligentes et utiles ? C&amp;rsquo;est ma passion.&#xA;Ce portfolio me résume en quelques mots — des projets avec lesquels j&amp;rsquo;ai expérimenté, des blogs où je divague.</description>
     </item>
     <item>
       <title>Blogs</title>
-      <link>https://nogieman.github.io/nogiemanio/fr/blogs/</link>
+      <link>https://nogieman.github.io/nogiemanio/fr/blogs.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/fr/blogs/</guid>
+      <guid>https://nogieman.github.io/nogiemanio/fr/blogs.html</guid>
       <description>Mes derniers articles sur l&amp;rsquo;intelligence artificielle, le développement et la technologie.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://nogieman.github.io/nogiemanio/fr/contact/</link>
+      <link>https://nogieman.github.io/nogiemanio/fr/contact.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/fr/contact/</guid>
+      <guid>https://nogieman.github.io/nogiemanio/fr/contact.html</guid>
       <description>J&amp;rsquo;aimerais avoir de vos nouvelles ! Envoyez-moi un message et je vous répondrai dès que possible.</description>
     </item>
     <item>
       <title>Expérience</title>
-      <link>https://nogieman.github.io/nogiemanio/fr/experience/</link>
+      <link>https://nogieman.github.io/nogiemanio/fr/experience.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/fr/experience/</guid>
+      <guid>https://nogieman.github.io/nogiemanio/fr/experience.html</guid>
       <description>Mon Expérience Professionnelle Tout au long de ma carrière, j&amp;rsquo;ai travaillé dans plusieurs rôles stimulants qui m&amp;rsquo;ont permis de développer mes compétences en apprentissage automatique, intelligence artificielle et développement logiciel.</description>
     </item>
     <item>
       <title>Projets</title>
-      <link>https://nogieman.github.io/nogiemanio/fr/projects/</link>
+      <link>https://nogieman.github.io/nogiemanio/fr/projects.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/fr/projects/</guid>
+      <guid>https://nogieman.github.io/nogiemanio/fr/projects.html</guid>
       <description>Vous trouverez ici une sélection de mes projets les plus intéressants dans les domaines de l&amp;rsquo;IA, de l&amp;rsquo;apprentissage automatique et du développement web.</description>
     </item>
   </channel>
