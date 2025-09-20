@@ -6,7 +6,7 @@ theme = 'hugo-noir'
 # URL handling
 relativeURLs = true
 canonifyURLs = false
-uglyURLs = true
+
 # Multilingual configuration
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true

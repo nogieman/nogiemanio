@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nogieman.github.io/nogiemanio/en/about.html</loc>
+    <loc>https://nogieman.github.io/nogiemanio/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nogieman.github.io/nogiemanio/fr/about.html"
+                href="https://nogieman.github.io/nogiemanio/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nogieman.github.io/nogiemanio/en/about.html"
+                href="https://nogieman.github.io/nogiemanio/en/about/"
                 />
   </url><url>
-    <loc>https://nogieman.github.io/nogiemanio/en/blogs.html</loc>
+    <loc>https://nogieman.github.io/nogiemanio/en/blogs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nogieman.github.io/nogiemanio/fr/blogs.html"
+                href="https://nogieman.github.io/nogiemanio/fr/blogs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nogieman.github.io/nogiemanio/en/blogs.html"
+                href="https://nogieman.github.io/nogiemanio/en/blogs/"
                 />
   </url><url>
-    <loc>https://nogieman.github.io/nogiemanio/en/categories.html</loc>
+    <loc>https://nogieman.github.io/nogiemanio/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nogieman.github.io/nogiemanio/fr/categories.html"
+                href="https://nogieman.github.io/nogiemanio/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nogieman.github.io/nogiemanio/en/categories.html"
+                href="https://nogieman.github.io/nogiemanio/en/categories/"
                 />
   </url><url>
-    <loc>https://nogieman.github.io/nogiemanio/en/contact.html</loc>
+    <loc>https://nogieman.github.io/nogiemanio/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nogieman.github.io/nogiemanio/fr/contact.html"
+                href="https://nogieman.github.io/nogiemanio/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nogieman.github.io/nogiemanio/en/contact.html"
+                href="https://nogieman.github.io/nogiemanio/en/contact/"
                 />
   </url><url>
-    <loc>https://nogieman.github.io/nogiemanio/en/experience.html</loc>
+    <loc>https://nogieman.github.io/nogiemanio/en/experience/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nogieman.github.io/nogiemanio/fr/experience.html"
+                href="https://nogieman.github.io/nogiemanio/fr/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nogieman.github.io/nogiemanio/en/experience.html"
+                href="https://nogieman.github.io/nogiemanio/en/experience/"
                 />
   </url><url>
     <loc>https://nogieman.github.io/nogiemanio/en/</loc>
@@ -74,28 +74,28 @@
                 href="https://nogieman.github.io/nogiemanio/en/"
                 />
   </url><url>
-    <loc>https://nogieman.github.io/nogiemanio/en/projects.html</loc>
+    <loc>https://nogieman.github.io/nogiemanio/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nogieman.github.io/nogiemanio/fr/projects.html"
+                href="https://nogieman.github.io/nogiemanio/fr/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nogieman.github.io/nogiemanio/en/projects.html"
+                href="https://nogieman.github.io/nogiemanio/en/projects/"
                 />
   </url><url>
-    <loc>https://nogieman.github.io/nogiemanio/en/tags.html</loc>
+    <loc>https://nogieman.github.io/nogiemanio/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nogieman.github.io/nogiemanio/fr/tags.html"
+                href="https://nogieman.github.io/nogiemanio/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nogieman.github.io/nogiemanio/en/tags.html"
+                href="https://nogieman.github.io/nogiemanio/en/tags/"
                 />
   </url>
 </urlset>

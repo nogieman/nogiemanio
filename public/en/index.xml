@@ -9,37 +9,37 @@
     <atom:link href="https://nogieman.github.io/nogiemanio/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://nogieman.github.io/nogiemanio/en/about.html</link>
+      <link>https://nogieman.github.io/nogiemanio/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/en/about.html</guid>
+      <guid>https://nogieman.github.io/nogiemanio/en/about/</guid>
       <description>I have been working with ML models, data and AI for the past 7 years of my life and I’ve got this drive to push boundaries and make things happen. I love the rush of cracking a tough problem, whether it’s coding something new or figuring out how far I can take a wild idea. Building stuff that’s smart and useful? That’s my jam.&#xA;This portfolio’s me in a nutshell—projects I’ve messed with, blogs where I ramble.</description>
     </item>
     <item>
       <title>Blogs</title>
-      <link>https://nogieman.github.io/nogiemanio/en/blogs.html</link>
+      <link>https://nogieman.github.io/nogiemanio/en/blogs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/en/blogs.html</guid>
+      <guid>https://nogieman.github.io/nogiemanio/en/blogs/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact Me</title>
-      <link>https://nogieman.github.io/nogiemanio/en/contact.html</link>
+      <link>https://nogieman.github.io/nogiemanio/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/en/contact.html</guid>
+      <guid>https://nogieman.github.io/nogiemanio/en/contact/</guid>
       <description>You can contact me via Email, Discord, Twitter, or LinkedIn. I usually respond within a day.</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>https://nogieman.github.io/nogiemanio/en/experience.html</link>
+      <link>https://nogieman.github.io/nogiemanio/en/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/en/experience.html</guid>
+      <guid>https://nogieman.github.io/nogiemanio/en/experience/</guid>
       <description>My career path has been defined by a passion for pushing technological boundaries and delivering impactful solutions in Machine Learning, AI, and Software Development.&#xA;As you&amp;rsquo;ll discover, each role in my journey has been more than just a position—it&amp;rsquo;s been an opportunity to solve complex problems and create meaningful technological advancements. From developing sophisticated financial prediction models at Marva.ai to engineering efficient ML pipelines at Knowledge Solutions India, and pioneering digital marketing strategies at Laugh Out Loud Ventures, each experience has built upon the last.</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://nogieman.github.io/nogiemanio/en/projects.html</link>
+      <link>https://nogieman.github.io/nogiemanio/en/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nogieman.github.io/nogiemanio/en/projects.html</guid>
+      <guid>https://nogieman.github.io/nogiemanio/en/projects/</guid>
       <description>Here are some of my recent projects that showcase my skills and interests in technology.</description>
     </item>
   </channel>
