@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nogiemanio/en/about/</loc>
+    <loc>http://localhost:1313/nogiemanio/en/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/nogiemanio/fr/about/"
+                href="http://localhost:1313/nogiemanio/en/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/nogiemanio/en/about/"
+                href="http://localhost:1313/nogiemanio/en/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/nogiemanio/en/blogs/</loc>
+    <loc>http://localhost:1313/nogiemanio/en/en/blogs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/nogiemanio/fr/blogs/"
+                href="http://localhost:1313/nogiemanio/en/fr/blogs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/nogiemanio/en/blogs/"
+                href="http://localhost:1313/nogiemanio/en/en/blogs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/nogiemanio/en/categories/</loc>
+    <loc>http://localhost:1313/nogiemanio/en/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/nogiemanio/fr/categories/"
+                href="http://localhost:1313/nogiemanio/en/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/nogiemanio/en/categories/"
+                href="http://localhost:1313/nogiemanio/en/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/nogiemanio/en/contact/</loc>
+    <loc>http://localhost:1313/nogiemanio/en/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/nogiemanio/fr/contact/"
+                href="http://localhost:1313/nogiemanio/en/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/nogiemanio/en/contact/"
+                href="http://localhost:1313/nogiemanio/en/en/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/nogiemanio/en/experience/</loc>
+    <loc>http://localhost:1313/nogiemanio/en/en/experience/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/nogiemanio/fr/experience/"
+                href="http://localhost:1313/nogiemanio/en/fr/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/nogiemanio/en/experience/"
+                href="http://localhost:1313/nogiemanio/en/en/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/nogiemanio/en/</loc>
+    <loc>http://localhost:1313/nogiemanio/en/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/nogiemanio/fr/"
+                href="http://localhost:1313/nogiemanio/en/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/nogiemanio/en/"
+                href="http://localhost:1313/nogiemanio/en/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/nogiemanio/en/projects/</loc>
+    <loc>http://localhost:1313/nogiemanio/en/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/nogiemanio/fr/projects/"
+                href="http://localhost:1313/nogiemanio/en/fr/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/nogiemanio/en/projects/"
+                href="http://localhost:1313/nogiemanio/en/en/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/nogiemanio/en/tags/</loc>
+    <loc>http://localhost:1313/nogiemanio/en/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/nogiemanio/fr/tags/"
+                href="http://localhost:1313/nogiemanio/en/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/nogiemanio/en/tags/"
+                href="http://localhost:1313/nogiemanio/en/en/tags/"
                 />
   </url>
 </urlset>
