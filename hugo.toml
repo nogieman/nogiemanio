@@ -5,7 +5,7 @@ theme = 'hugo-noir'
 
 # URL handling
 relativeURLs = true
-canonifyURLs = true
+canonifyURLs = false
 
 # Multilingual configuration
 defaultContentLanguage = "en"
@@ -20,15 +20,15 @@ defaultContentLanguageInSubdir = true
     [languages.en.menu]
       [[languages.en.menu.main]]
         name = "About"
-        pageRef = "/about"
+        url = "/about"
         weight = 1
       [[languages.en.menu.main]]
         name = "Experience"
-        pageRef = "/experience"
+        url = "/experience"
         weight = 2
       [[languages.en.menu.main]]
         name = "Projects"
-        pageRef = "/projects"
+        url = "/projects"
         weight = 3
       # [[languages.en.menu.main]]
         # name = "Blogs"
@@ -36,7 +36,7 @@ defaultContentLanguageInSubdir = true
         # weight = 4
       [[languages.en.menu.main]]
         name = "Contact"
-        pageRef = "/contact"
+        url = "/contact"
         weight = 5
  [languages.fr]
     languageName = "Français"
@@ -46,15 +46,15 @@ defaultContentLanguageInSubdir = true
     [languages.fr.menu]
       [[languages.fr.menu.main]]
         name = "À Propos"
-        pageRef = "/about"
+        url = "/about"
         weight = 1
       [[languages.fr.menu.main]]
         name = "Expérience"
-        pageRef = "/experience"
+        url = "/experience"
         weight = 2
       [[languages.fr.menu.main]]
         name = "Projets"
-        pageRef = "/projects"
+        url = "/projects"
         weight = 3
       # [[languages.fr.menu.main]]
       #   name = "Blogs"
@@ -62,7 +62,7 @@ defaultContentLanguageInSubdir = true
       #   weight = 4
       [[languages.fr.menu.main]]
         name = "Contact"
-        pageRef = "/contact"
+        url = "/contact"
         weight = 5
 
 # Taxonomy configuration
@@ -133,23 +133,23 @@ description = "As a volunteer at Bunts Sangha Nashik, I tutored students, prepar
 [menu]
   [[menu.main]]
     name = "About"
-    pageRef = "/about"
+    url = "/about"
     weight = 1
   [[menu.main]]
     name = "Experience"
-    pageRef = "/experience"
+    url = "/experience"
     weight = 2
   [[menu.main]]
     name = "Projects"
-    pageRef = "/projects"
+    url = "/projects"
     weight = 3
   [[menu.main]]
     name = "Blogs"
-    pageRef = "/blogs"
+    url = "/blogs"
     weight = 4
   [[menu.main]]
     name = "Contact Me"
-    pageRef = "/contact"
+    url = "/contact"
     weight = 5
 [caches]
   [caches.images]
